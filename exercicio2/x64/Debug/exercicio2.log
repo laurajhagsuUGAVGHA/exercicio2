@@ -1,0 +1,8 @@
+﻿  exercicio2.cpp
+C:\Users\48656394894\Desktop\exercicio2\exercicio2\exercicio2.cpp(54,1): error C2059: erro de sintaxe: 'if'
+C:\Users\48656394894\Desktop\exercicio2\exercicio2\exercicio2.cpp(54,20): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\48656394894\Desktop\exercicio2\exercicio2\exercicio2.cpp(54,20): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\48656394894\Desktop\exercicio2\exercicio2\exercicio2.cpp(57,1): error C2059: erro de sintaxe: 'else'
+C:\Users\48656394894\Desktop\exercicio2\exercicio2\exercicio2.cpp(57,24): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Users\48656394894\Desktop\exercicio2\exercicio2\exercicio2.cpp(57,24): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Users\48656394894\Desktop\exercicio2\exercicio2\exercicio2.cpp(61,1): error C2059: erro de sintaxe: 'return'
